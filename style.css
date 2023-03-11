@@ -158,15 +158,10 @@ footer {
     padding: 20px 15px;
   }  
 
-  main > article {
-    display: inline-block; 
-  }
-
   main > article img {
-    width: 75%;
+    width: 80%;
     height: auto;
     margin: 30px;
-    padding-left: 15px;
     justify-content: center; 
   }
  
